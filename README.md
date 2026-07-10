@@ -8,6 +8,9 @@
 
 ---
 
+<img width="1698" height="710" alt="image" src="https://github.com/user-attachments/assets/f6510f45-8215-4934-9025-bdd2a708819d" />
+
+
 ## 🔥 Features / Özellikler
 
 - **25+ payloads / dil desteği:** Bash, SH, Netcat, Python3, PHP, Ruby, Perl, PowerShell, AWK, Lua, Go, Rust…
